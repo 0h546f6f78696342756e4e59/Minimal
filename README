@@ -11,7 +11,7 @@ To install extra packages defined in lists/extra: bash minimal.sh extra
 To set the clock, clean files and create a user: bash minimal.sh configure
 
 >> DOWNLOAD <<
-wget --no-check-certificate -O mini.tgz http://is.gd/minideb; tar zxvf mini.tgz; cd *Minimal*;
+wget --no-check-certificate https://github.com/cedricd/Minimal/tarball/master -O minimal.tgz ; tar zxvf minimal.tgz; cd *Minimal*;
 
 >> COMPATIBILITY <<
 Operating Systems:
